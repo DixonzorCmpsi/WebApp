@@ -1,4 +1,4 @@
-// File: C:\Users\Dixon Zor\OneDrive - The Pennsylvania State University\Documents\coolapp\nextjs-supabase-auth-starterkit\src\app\features\page.tsx
+// File: C:\Users\Dixon Zor\OneDrive - The Pennsylvania State University\Documents\coolapp\My-Webapp\src\app\features\page.tsx
 import * as entry from '../../../../src/app/features/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -15,7 +15,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="The App for everything sports. Created By Dee Talk for the benefit of sport junkies. Everything is free, learn about the game as much as you want."
       />
       <AboutSectionOne />
       <AboutSectionTwo />

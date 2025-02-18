@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="we've packed in many features that help everyday fans tap into the world of sports as quickly as possible. From news tab, to my own personal education based tab, and many more."
             center
           />
 

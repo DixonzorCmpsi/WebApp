@@ -54,7 +54,7 @@ const Header = ({ user }) => {
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/logo/logo.svg"
+                  src="/images/logo/logo(1).svg"
                   alt="logo"
                   width={140}
                   height={30}
